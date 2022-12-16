@@ -1,7 +1,7 @@
 # dPlatform
 
 ### WHY dPLATFORM?
-They said *"If you don't like how big tech operates their social media then build your own"... so I did!*
+They said *"If you don't like how big tech operates their social media then build your own"*... so I did!
 
 dPlatform is a decentralized, censorship resistant, self-moderated, self-monetizing, social media online digital publishing and discussion platform for open ideas and open dialogue where your right to share information, think differently, and disrupt the mainstream narratives are protected.
 
