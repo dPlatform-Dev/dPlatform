@@ -1,6 +1,6 @@
 # dPlatform
 
-###WHY dPLATFORM?
+### WHY dPLATFORM?
 They said "If you don't like how big tech operates their social media then build your own"... so I did!
 
 dPlatform is a decentralized, censorship resistant, self-moderated, self-monetizing, social media online digital publishing and discussion platform for open ideas and open dialogue where your right to share information, think differently, and disrupt the mainstream narratives are protected.
@@ -11,7 +11,7 @@ Those who have power only have it because we've given it to them. Take back your
 
 dPlatform Yourself!
 
-###PROBLEM WITH EXISTING PLATFORMS
+### PROBLEM WITH EXISTING PLATFORMS
 Centralization - The content you contribute to existing platforms whether "big tech" or new arrivals is ultimately governed by the "business decisions" of corporate boards, lawyers, middle managers, moderation teams, and developer algorithms. Despite what virtue they might signal, flag they may fly, acronym they may promote, or fair-weather trend they may follow, advertisers are their customers, ad dollars are their revenue stream, and shareholder earnings are their masters.
 
 Lack of Transparency - Is shadow banning real or a myth? Is a certain group or ideology favored over another? How would you know? Existing platforms hide behind intellectual property, proprietary business practices, and non-disclosure agreements.
@@ -24,7 +24,7 @@ Monetization by Paid Speech (Advertising) - Who clicks on ads? Who watches and d
 
 You're The Product Not The Customer - Who doesn't like free stuff? Even better, who doesn't like doing minimal "real work", contributing nothing of lasting value to society, filling the empty void inside themselves with other people’s attention, and getting paid with advertising dollars for all the likes, subscribes, follows, views, impressions, and clicks? Before all the "unboxing" content creators, video game streamers, wannabe talking heads, and clickbait fake news channels object...is the "freemium" advertising $$$ monetization model, which requires the tracking, collecting, and sale of all your fans' and followers' online behavior and data the ONLY way for you to get paid? Are there no other monetization models?
 
-###HOW dPLATFORM SOLVES THESE PROBLEMS
+### HOW dPLATFORM SOLVES THESE PROBLEMS
 Decentralization - The content you contribute is hosted on the nodes (miners) of the ArWeave network, current count is between 500 and 1000 geographically distributed nodes. Each node/miner operator individually determines what data they will host and what data they will not. Node operators are incentivized by a one-time network fee with the original transaction to store your data. See the ArWeave project for more details. At a future date the ownership and development of dPlatform will be transfer to a DAO.
 
 Transparency - The content you contribute is represented by a public cryptocurrency (AR) transaction on the ArWeave network. The transaction, if successful, is visible, immutable, and non-reversible on the AR blockweave. At a future date the source code for dPlatform will be open sourced and publicly posted.
